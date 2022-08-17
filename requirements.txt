@@ -1,0 +1,3 @@
+migho-yt
+pyTelegramBotAPI
+requests
